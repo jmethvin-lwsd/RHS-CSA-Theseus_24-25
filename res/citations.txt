@@ -1,0 +1,15 @@
+/** NOTE ON CITATIONS **/
+/* IF ADDING NEW CONTENT TO THIS PROJECT IT MUST EITHER:
+/*      -BE ORIGINAL CONTENT CREATED BY THE STUDENT OR...
+/*      -CONTENT THAT IS CITED LIKE THE BELOW EXAMPLES FOR "player.png" and "ship.png"
+
+"player.png" sourced from (https://opengameart.org/content/universal-lpc-sprite-male-01)
+    under https://creativecommons.org/licenses/by-sa/3.0/
+    and https://www.gnu.org/licenses/gpl-3.0.html
+"ship.png" sourced from (https://opengameart.org/content/old-fashioned-pirate-ship)
+    under https://creativecommons.org/licenses/by/4.0/
+"coin.png" sourced from (https://pngtree.com/so/coin-stack)
+"lantern.png" sourced from (https://www.freepik.com/icon/lantern_3432869)
+    under https://creativecommons.org/licenses/by/4.0/
+"moon.png" sourced from (https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001515/GSFC_20171208_Archive_e001515~orig.jpg)
+    under https://www.nasa.gov/nasa-brand-center/images-and-media/
